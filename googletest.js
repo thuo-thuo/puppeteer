@@ -17,3 +17,5 @@ const puppeteer = require('puppeteer');
     await browser.close();
 
 })();
+
+// this is a comment to demonstrate git capabilities
